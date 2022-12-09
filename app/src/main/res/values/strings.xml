@@ -12,4 +12,7 @@
     <string name="todo3">TODO</string>
     <string name="authorC" />
     <string name="author3">author3</string>
+    <string name="topNews">Top News</string>
+    <string name="recentNews">Recent News</string>
+    <string name="allNews">All News</string>
 </resources>

@@ -66,9 +66,10 @@
                     android:layout_height="wrap_content"
                     android:background="@color/white"
                     android:ems="10"
+                    android:hint="Your Name"
                     android:inputType="textPersonName"
                     android:minHeight="48dp"
-                    android:hint="Your Name" />
+                    android:textColorHint="#757575" />
 
                 <Space
                     android:layout_width="match_parent"
@@ -80,8 +81,9 @@
                     android:layout_height="99dp"
                     android:background="@color/white"
                     android:ems="10"
+                    android:hint="Your comment"
                     android:inputType="textPersonName"
-                    android:hint="Your comment" />
+                    android:textColorHint="#757575" />
 
                 <Space
                     android:layout_width="match_parent"
