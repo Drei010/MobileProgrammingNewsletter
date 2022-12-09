@@ -1,5 +1,6 @@
 package com.example.finalgroupproject;
 
+import android.annotation.SuppressLint;
 import android.content.ContentValues;
 import android.content.Context;
 import android.database.Cursor;
@@ -48,6 +49,7 @@ public class DBHandler extends SQLiteOpenHelper{
         db.close();
     }
     // Get User Details
+    @SuppressLint("Range")
     public ArrayList<HashMap<String, String>> GetUsers(){
         SQLiteDatabase db = this.getWritableDatabase();
         ArrayList<HashMap<String, String>> userList = new ArrayList<>();
@@ -63,6 +65,7 @@ public class DBHandler extends SQLiteOpenHelper{
         return userList;
     }
     // Get User Details based on userid
+    @SuppressLint("Range")
     public ArrayList<HashMap<String, String>> GetUserByUserId(int userid){
         SQLiteDatabase db = this.getWritableDatabase();
         ArrayList<HashMap<String, String>> userList = new ArrayList<>();
@@ -92,8 +95,7 @@ public class DBHandler extends SQLiteOpenHelper{
         SQLiteDatabase db = this.getWritableDatabase();
         ContentValues cVals = new ContentValues();
         cVals.put(KEY_COM, comment);
-        int count = db.update(TABLE_Users, cVals, KEY_ID+" = ?",new
+        return db.update(TABLE_Users, cVals, KEY_ID+" = ?",new
                 String[]{String.valueOf(id)});
-        return count;
     }
 }

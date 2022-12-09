@@ -13,10 +13,11 @@
         android:orientation="vertical">
 
         <!--Header-->
+
         <LinearLayout
             android:id="@+id/Header"
             android:layout_width="match_parent"
-            android:layout_height="63dp"
+            android:layout_height="wrap_content"
             android:background="@color/Header"
             android:orientation="horizontal">
 
@@ -39,10 +40,10 @@
 
         </LinearLayout>
 
-        <!--Body-->
-        <ScrollView
+        <androidx.core.widget.NestedScrollView
             android:layout_width="match_parent"
-            android:layout_height="match_parent">
+            android:layout_height="wrap_content"
+            android:fillViewport="true">
 
             <LinearLayout
                 android:id="@+id/Body"
@@ -64,8 +65,16 @@
                     android:layout_height="wrap_content"
                     android:text="@string/title"
                     android:textColor="@color/Text"
-                    android:textSize="20sp"
+                    android:textSize="25sp"
                     tools:ignore="TextContrastCheck,TextContrastCheck" />
+
+                <TextView
+                    android:id="@+id/authorA"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="@string/author3"
+                    android:textColor="@color/Text"
+                    android:textSize="20sp" />
 
                 <TextView
                     android:id="@+id/contentA"
@@ -86,6 +95,13 @@
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:text="@string/title2"
+                    android:textColor="@color/Text"
+                    android:textSize="25sp" />
+                <TextView
+                    android:id="@+id/authorB"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="@string/author3"
                     android:textColor="@color/Text"
                     android:textSize="20sp" />
 
@@ -109,6 +125,14 @@
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:text="@string/title3"
+                    android:textColor="@color/Text"
+                    android:textSize="25sp" />
+
+                <TextView
+                    android:id="@+id/authorC"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="@string/author3"
                     android:textColor="@color/Text"
                     android:textSize="20sp" />
 
@@ -134,10 +158,11 @@
 
                 <ListView
                     android:id="@+id/user_list"
-                    android:layout_width="350dp"
-                    android:layout_height="266dp"
-                    android:layout_margin="30dp"
-                    android:background="@color/white">
+                    android:layout_width="375dp"
+                    android:layout_height="200dp"
+                    android:layout_margin="20dp"
+                    android:background="@color/white"
+                    android:minHeight="300dp">
 
                 </ListView>
 
@@ -150,10 +175,6 @@
                     android:layout_marginBottom="10dp"
                     android:text="New Comment"
                     app:backgroundTint="@color/Footer" />
-
-                <Space
-                    android:layout_width="match_parent"
-                    android:layout_height="49dp" />
 
                 <LinearLayout
                     android:id="@+id/Footer"
@@ -229,22 +250,25 @@
                             android:id="@+id/imageFacebook"
                             android:layout_width="40dp"
                             android:layout_height="40dp"
-                            android:contentDescription="@string/app_name"
                             android:layout_margin="10dp"
+                            android:contentDescription="@string/app_name"
                             android:src="@drawable/facebook" />
+
                         <ImageView
                             android:id="@+id/imageTwitter"
                             android:layout_width="40dp"
                             android:layout_height="40dp"
-                            android:contentDescription="@string/app_name"
                             android:layout_margin="10dp"
-                            android:src="@drawable/twitter" />
+                            android:contentDescription="@string/app_name"
+                            android:src="@drawable/twitter"
+                            tools:ignore="ImageContrastCheck" />
+
                         <ImageView
                             android:id="@+id/imageInstagram"
                             android:layout_width="40dp"
                             android:layout_height="40dp"
-                            android:contentDescription="@string/app_name"
                             android:layout_margin="10dp"
+                            android:contentDescription="@string/app_name"
                             android:src="@drawable/instagram" />
 
                         <Space
@@ -256,7 +280,10 @@
                 </LinearLayout>
 
             </LinearLayout>
-        </ScrollView>
+        </androidx.core.widget.NestedScrollView>
+
+        <!--Body-->
+
     </LinearLayout>
 
 </androidx.constraintlayout.widget.ConstraintLayout>

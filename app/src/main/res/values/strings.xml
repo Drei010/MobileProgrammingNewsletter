@@ -10,4 +10,6 @@
     <string name="todo">TODO</string>
     <string name="todo2">TODO</string>
     <string name="todo3">TODO</string>
+    <string name="authorC" />
+    <string name="author3">author3</string>
 </resources>

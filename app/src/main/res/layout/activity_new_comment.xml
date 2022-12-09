@@ -16,7 +16,7 @@
         <LinearLayout
             android:id="@+id/Header"
             android:layout_width="match_parent"
-            android:layout_height="63dp"
+            android:layout_height="wrap_content"
             android:background="@color/Header"
             android:orientation="horizontal">
 
@@ -68,7 +68,7 @@
                     android:ems="10"
                     android:inputType="textPersonName"
                     android:minHeight="48dp"
-                    android:text="Your Name" />
+                    android:hint="Your Name" />
 
                 <Space
                     android:layout_width="match_parent"
@@ -81,7 +81,7 @@
                     android:background="@color/white"
                     android:ems="10"
                     android:inputType="textPersonName"
-                    android:text="Your comment" />
+                    android:hint="Your comment" />
 
                 <Space
                     android:layout_width="match_parent"
@@ -174,13 +174,15 @@
                             android:contentDescription="@string/app_name"
                             android:layout_margin="10dp"
                             android:src="@drawable/facebook" />
+
                         <ImageView
                             android:id="@+id/imageTwitter"
                             android:layout_width="40dp"
                             android:layout_height="40dp"
-                            android:contentDescription="@string/app_name"
                             android:layout_margin="10dp"
-                            android:src="@drawable/twitter" />
+                            android:contentDescription="@string/app_name"
+                            android:src="@drawable/twitter"
+                            tools:ignore="ImageContrastCheck" />
                         <ImageView
                             android:id="@+id/imageInstagram"
                             android:layout_width="40dp"
