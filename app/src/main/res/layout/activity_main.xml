@@ -204,30 +204,98 @@
                     android:layout_height="304dp"
                     android:contentDescription="@string/todo"
                     tools:ignore="ImageContrastCheck"
-                    tools:srcCompat="@tools:sample/avatars" />
+                    tools:srcCompat="@drawable/News_1" />
 
                 <TextView
-                    android:id="@+id/titleA"
+                    android:="Not yet 50-50: UST wants 'best combination' of F2F, online classes in Term 2A"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:text="@string/title"
+                    android:text="Not yet 50-50: UST wants 'best combination' of F2F, online classes in Term 2"
                     android:textColor="@color/Text"
                     android:textSize="25sp"
                     tools:ignore="TextContrastCheck,TextContrastCheck" />
 
                 <TextView
-                    android:id="@+id/authorA"
+                    android:="Logan Kal-El M. Zapanta -December 6, 2022"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:text="@string/author3"
+                    android:text="Logan Kal-El M. Zapanta -December 6, 2022"
                     android:textColor="@color/Text"
                     android:textSize="20sp" />
 
                 <TextView
-                    android:id="@+id/contentA"
+                    android:="The University won’t shift to a 50-50 hybrid learning mode until Academic Year (AY) 2023-2024 or August 2023, the Office of the Vice Rector for Academic Affairs (OVRAA) said.
+
+For Term 2 of the current academic year, AY 2022-2023, UST will adopt the “best combination” of onsite and online class hours, Vice Rector for Academic Affairs Prof. Cheryl Peralta told the Varsitarian.
+
+The second term, which will start on Jan. 16, will be a “transitory period,” she said.
+
+“We will maintain the principle of constructive alignment as a basis for determining how courses should be taught. To maximize our gains from the enriched virtual mode (EVM) of instruction, academic units shall plan the best combination of onsite and online hours for each of the courses in their respective curricula,” Peralta said.
+
+On Nov. 11, the Commission on Higher Education (CHEd) ordered all higher education institutions (HEIs) to conduct at least 50 percent of total learning hours on-site effective Term 2.
+
+According to CHEd Memorandum Order (CMO) No. 16, HEIs planning to hold zero to 49 percent of classes on-site need to secure CHEd clearance, while those planning to conduct full face-to-face (F2F) classes do not need approval.
+
+“We will communicate our institutional transition plan to CHEd, as required by CMO 16, s2022,” Peralta said.
+
+She said discussions on the transition plan began during the monthly meeting of academic unit heads in September 2022, before the CHEd memorandum took effect.
+
+Peralta said the University was working to have all programs hold limited F2F classes by next term.
+
+Academic unit heads are required to submit transition plans for hybrid learning to the OVRAA by Jan. 11, 2023, five days before the start of the second term.
+
+“We requested them to ensure that stakeholders are informed of their plans for the second term AY 2022-2023 as soon as possible,” Peralta said.
+
+Peralta said UST would still apply for the CHEd Safety Seal to assure stakeholders that the resumption of F2F classes would be done safely.
+
+The CHEd Safety Seal is a voluntary certification given to HEIs that have adopted minimum health standards and use the StaySafe.PH app for contact tracing. Academic units that have completed the process may begin on-site classes, Peralta said.
+
+According to the vice rector, all basic education, baccalaureate degree programs (including the Faculty of Medicine and Surgery), and 10 graduate programs have been cleared by the University Crisis Management Committee to conduct in-person classes and assessments as of Dec. 5.
+
+The EVM remained the default mode of instructional delivery for all programs in the first term of AY 2022 to 2023, with an option for the EVM hybrid or EVM hyflex modes.
+
+The EVM hybrid mode requires students to complete a specific number of F2F classes to accomplish the intended learning outcomes of select courses or subjects that cannot be fully achieved with online learning.
+
+Meanwhile, students can participate in either F2F or online classes in the EVM hyflex mode. The hyflex mode is for courses and subjects whose outcomes and competencies may be achieved with online learning, but F2F classes may “enrich the learning experience.”
+
+"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:text="@string/lorem_ipsum_is_simply_dummy_text_of_the_printing_and_typesetting_industry_lorem_ipsum_has_been_the_industry_s_standard_dummy_text_ever_since_the_1500s_when_an_unknown_printer_took_a_galley_of_type_and_scrambled_it_to_make_a_type_specimen_book_it_has_survived_not_only_five_centuries_but_also_the_leap_into_electronic_typesetting_remaining_essentially_unchanged_it_was_popularised_in_the_1960s_with_the_release_of_letraset_sheets_containing_lorem_ipsum_passages_and_more_recently_with_desktop_publishing_software_like_aldus_pagemaker_including_versions_of_lorem_ipsum"
+                    android:text="The University won’t shift to a 50-50 hybrid learning mode until Academic Year (AY) 2023-2024 or August 2023, the Office of the Vice Rector for Academic Affairs (OVRAA) said.
+
+For Term 2 of the current academic year, AY 2022-2023, UST will adopt the “best combination” of onsite and online class hours, Vice Rector for Academic Affairs Prof. Cheryl Peralta told the Varsitarian.
+
+The second term, which will start on Jan. 16, will be a “transitory period,” she said.
+
+“We will maintain the principle of constructive alignment as a basis for determining how courses should be taught. To maximize our gains from the enriched virtual mode (EVM) of instruction, academic units shall plan the best combination of onsite and online hours for each of the courses in their respective curricula,” Peralta said.
+
+On Nov. 11, the Commission on Higher Education (CHEd) ordered all higher education institutions (HEIs) to conduct at least 50 percent of total learning hours on-site effective Term 2.
+
+According to CHEd Memorandum Order (CMO) No. 16, HEIs planning to hold zero to 49 percent of classes on-site need to secure CHEd clearance, while those planning to conduct full face-to-face (F2F) classes do not need approval.
+
+“We will communicate our institutional transition plan to CHEd, as required by CMO 16, s2022,” Peralta said.
+
+She said discussions on the transition plan began during the monthly meeting of academic unit heads in September 2022, before the CHEd memorandum took effect.
+
+Peralta said the University was working to have all programs hold limited F2F classes by next term.
+
+Academic unit heads are required to submit transition plans for hybrid learning to the OVRAA by Jan. 11, 2023, five days before the start of the second term.
+
+“We requested them to ensure that stakeholders are informed of their plans for the second term AY 2022-2023 as soon as possible,” Peralta said.
+
+Peralta said UST would still apply for the CHEd Safety Seal to assure stakeholders that the resumption of F2F classes would be done safely.
+
+The CHEd Safety Seal is a voluntary certification given to HEIs that have adopted minimum health standards and use the StaySafe.PH app for contact tracing. Academic units that have completed the process may begin on-site classes, Peralta said.
+
+According to the vice rector, all basic education, baccalaureate degree programs (including the Faculty of Medicine and Surgery), and 10 graduate programs have been cleared by the University Crisis Management Committee to conduct in-person classes and assessments as of Dec. 5.
+
+The EVM remained the default mode of instructional delivery for all programs in the first term of AY 2022 to 2023, with an option for the EVM hybrid or EVM hyflex modes.
+
+The EVM hybrid mode requires students to complete a specific number of F2F classes to accomplish the intended learning outcomes of select courses or subjects that cannot be fully achieved with online learning.
+
+Meanwhile, students can participate in either F2F or online classes in the EVM hyflex mode. The hyflex mode is for courses and subjects whose outcomes and competencies may be achieved with online learning, but F2F classes may “enrich the learning experience.”
+
+"
                     android:textColor="@color/Text" />
 
                 <ImageView
@@ -235,28 +303,104 @@
                     android:layout_width="match_parent"
                     android:layout_height="247dp"
                     android:contentDescription="@string/todo3"
-                    tools:srcCompat="@tools:sample/avatars" />
+                    tools:srcCompat="@drawable/News_2" />
 
                 <TextView
-                    android:id="@+id/titleB"
+                    android:="Paskuhan opening draws crowd of 34,000 ThomasiansB"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:text="@string/title2"
+                    android:text="Paskuhan opening draws crowd of 34,000 Thomasians"
                     android:textColor="@color/Text"
                     android:textSize="25sp" />
                 <TextView
-                    android:id="@+id/authorB"
+                    android:="Hannah Joyce V. Andaya and Nillicent B. Bautista -December 2, 2022"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:text="@string/author3"
+                    android:text="Hannah Joyce V. Andaya and Nillicent B. Bautista -December 2, 2022"
                     android:textColor="@color/Text"
                     android:textSize="20sp" />
 
                 <TextView
-                    android:id="@+id/contentB"
+                    android:="MORE THAN 34,000 Thomasians attended this year’s Agape, lighting of the Christmas lights and decorations, and Christmas concert at University grounds on Friday, Dec. 2, which marked the start of the Paskuhan celebrations in UST.
+
+UST campus security supervisor Lords Hernandez told the Varsitarian that the University’s initial crowd estimate for the Agape was about 34,500, based on food packs claimed during the event.
+
+The estimate did not include the number of alumni attendees since the food packages were limited to students and employees of the University.
+
+Hernandez said there were no major safety and security concerns during the Agape, and that the same security protocols, with some modifications, would be implemented during the Paskuhan concert on Dec. 19, which usually draws at least 80,000 attendees when opened to the public.
+
+All activities for the Paskuhan are exclusive to Thomasians this year.
+
+“Medyo critical (‘yung Paskuhan) kasi nga mataas ‘yong eagerness ng mga tao kasi three years wala e. Mataas ‘yong eagerness, mataas ‘yong excitement,” Hernandez told the Varsitarian.
+
+During the Agape, Thomasians who entered the campus were asked to tap their IDs or scan their QR codes at the University gates. On regular days, students and faculty members only need to tap their IDs or scan their QR codes when entering buildings.
+
+Those who received an “access denied” error were asked to rescan their IDs or QR codes after updating their Thomasian Online Medical Services and Support (ThOMedSS) health declaration.
+
+Hospital visitors were allowed to enter the campus through the Lacson gate, while church visitors were permitted through the P. Noval gate.
+
+Hernandez said the University tapped 70 additional security guards for the Agape to conduct patrols inside and outside the campus. UST also coordinated with the local police unit for security outside the campus.
+
+The food distribution started at 5 p.m., while the lighting of the Christmas lights and decorations began at 6 p.m. A fireworks display, which lasted for about 40 seconds, was mounted shortly after the lighting.
+
+It was followed by the “all-Filipino” Christmas Gala Concert.
+
+‘Unmatched’ on-site Paskuhan festivities
+
+As a first-time attendee, senior high school student Brian Castañeda said seeing thousands of Thomasians gathered together was a joyful experience for him.
+
+“It was very fun and exciting, lalo na hindi ko alam ‘yong mangyayari kasi first time ko. So far, satisfying naman ‘yong experience,” Castañeda told the Varsitarian.
+
+Some Thomasians, meanwhile, treated the Agape as a reunion with their friends.
+
+“Sobrang saya po kasi nakita namin ‘yong friends namin before pa nag-pandemic. Memorable kasi marami po kami nakitang tao,” legal management senior Chrizel Satulan said.
+
+In a short speech during the Agape program, UST Rector Fr. Richard Ang, O.P., said the celebration of Paskuhan festivities in person remains unmatched.
+
+“Naging malikhain at makulay ang nakaraang Christmas concert, subalit walang papantay sa ating aktwal na presensya at sama-samang pakikilahok ngayong gabi. Akmang-akma ang tema ng ating Paskuhan para sa taong ito—pananabik, pagbabalik, panunumbalik,” he said. with reports from Logan Kal-El Zapanta
+
+"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:text="@string/lorem_ipsum_is_simply_dummy_text_of_the_printing_and_typesetting_industry_lorem_ipsum_has_been_the_industry_s_standard_dummy_text_ever_since_the_1500s_when_an_unknown_printer_took_a_galley_of_type_and_scrambled_it_to_make_a_type_specimen_book_it_has_survived_not_only_five_centuries_but_also_the_leap_into_electronic_typesetting_remaining_essentially_unchanged_it_was_popularised_in_the_1960s_with_the_release_of_letraset_sheets_containing_lorem_ipsum_passages_and_more_recently_with_desktop_publishing_software_like_aldus_pagemaker_including_versions_of_lorem_ipsum2"
+                    android:text="MORE THAN 34,000 Thomasians attended this year’s Agape, lighting of the Christmas lights and decorations, and Christmas concert at University grounds on Friday, Dec. 2, which marked the start of the Paskuhan celebrations in UST.
+
+UST campus security supervisor Lords Hernandez told the Varsitarian that the University’s initial crowd estimate for the Agape was about 34,500, based on food packs claimed during the event.
+
+The estimate did not include the number of alumni attendees since the food packages were limited to students and employees of the University.
+
+Hernandez said there were no major safety and security concerns during the Agape, and that the same security protocols, with some modifications, would be implemented during the Paskuhan concert on Dec. 19, which usually draws at least 80,000 attendees when opened to the public.
+
+All activities for the Paskuhan are exclusive to Thomasians this year.
+
+“Medyo critical (‘yung Paskuhan) kasi nga mataas ‘yong eagerness ng mga tao kasi three years wala e. Mataas ‘yong eagerness, mataas ‘yong excitement,” Hernandez told the Varsitarian.
+
+During the Agape, Thomasians who entered the campus were asked to tap their IDs or scan their QR codes at the University gates. On regular days, students and faculty members only need to tap their IDs or scan their QR codes when entering buildings.
+
+Those who received an “access denied” error were asked to rescan their IDs or QR codes after updating their Thomasian Online Medical Services and Support (ThOMedSS) health declaration.
+
+Hospital visitors were allowed to enter the campus through the Lacson gate, while church visitors were permitted through the P. Noval gate.
+
+Hernandez said the University tapped 70 additional security guards for the Agape to conduct patrols inside and outside the campus. UST also coordinated with the local police unit for security outside the campus.
+
+The food distribution started at 5 p.m., while the lighting of the Christmas lights and decorations began at 6 p.m. A fireworks display, which lasted for about 40 seconds, was mounted shortly after the lighting.
+
+It was followed by the “all-Filipino” Christmas Gala Concert.
+
+‘Unmatched’ on-site Paskuhan festivities
+
+As a first-time attendee, senior high school student Brian Castañeda said seeing thousands of Thomasians gathered together was a joyful experience for him.
+
+“It was very fun and exciting, lalo na hindi ko alam ‘yong mangyayari kasi first time ko. So far, satisfying naman ‘yong experience,” Castañeda told the Varsitarian.
+
+Some Thomasians, meanwhile, treated the Agape as a reunion with their friends.
+
+“Sobrang saya po kasi nakita namin ‘yong friends namin before pa nag-pandemic. Memorable kasi marami po kami nakitang tao,” legal management senior Chrizel Satulan said.
+
+In a short speech during the Agape program, UST Rector Fr. Richard Ang, O.P., said the celebration of Paskuhan festivities in person remains unmatched.
+
+“Naging malikhain at makulay ang nakaraang Christmas concert, subalit walang papantay sa ating aktwal na presensya at sama-samang pakikilahok ngayong gabi. Akmang-akma ang tema ng ating Paskuhan para sa taong ito—pananabik, pagbabalik, panunumbalik,” he said. with reports from Logan Kal-El Zapanta
+
+2"
                     android:textColor="@color/Text" />
 
                 <ImageView
@@ -265,29 +409,29 @@
                     android:layout_height="247dp"
                     android:contentDescription="@string/todo2"
                     tools:ignore="ImageContrastCheck"
-                    tools:srcCompat="@tools:sample/avatars" />
+                    tools:srcCompat="@drawable/News_3" />
 
                 <TextView
-                    android:id="@+id/titleC"
+                    android:="In support of the ust salinggawi dance troupe, University of Santo Tomas proclaim December 9 and 10 as yellow days"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:text="@string/title3"
+                    android:text="In support of the ust salinggawi dance troupe, University of Santo Tomas proclaim December 9 and 10 as yellow days"
                     android:textColor="@color/Text"
                     android:textSize="25sp" />
 
                 <TextView
-                    android:id="@+id/authorC"
+                    android:="Office of the general"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:text="@string/author3"
+                    android:text="Office of the general"
                     android:textColor="@color/Text"
                     android:textSize="20sp" />
 
                 <TextView
-                    android:id="@+id/contentC"
+                    android:="In solidarity with our Salinggawi Dance Troupe, let us show our moral support by wearing our best yellows (i.e., Thomasian shirts, tiger pants, or tiger accessories), subject to existing policies on dress code, as we cheer and wish them blessings for the participation in the UAAP Season 85 Cheerdance Competition on 10 December 2022 - Office of the Secretary General"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:text="@string/lorem_ipsum_is_simply_dummy_text_of_the_printing_and_typesetting_industry_lorem_ipsum_has_been_the_industry_s_standard_dummy_text_ever_since_the_1500s_when_an_unknown_printer_took_a_galley_of_type_and_scrambled_it_to_make_a_type_specimen_book_it_has_survived_not_only_five_centuries_but_also_the_leap_into_electronic_typesetting_remaining_essentially_unchanged_it_was_popularised_in_the_1960s_with_the_release_of_letraset_sheets_containing_lorem_ipsum_passages_and_more_recently_with_desktop_publishing_software_like_aldus_pagemaker_including_versions_of_lorem_ipsum3"
+                    android:text="In solidarity with our Salinggawi Dance Troupe, let us show our moral support by wearing our best yellows (i.e., Thomasian shirts, tiger pants, or tiger accessories), subject to existing policies on dress code, as we cheer and wish them blessings for the participation in the UAAP Season 85 Cheerdance Competition on 10 December 2022 - Office of the Secretary General3"
                     android:textColor="@color/Text" />
 
                 <!--Footer-->
