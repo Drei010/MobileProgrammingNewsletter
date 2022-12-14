@@ -51,10 +51,16 @@ public class NewComment extends AppCompatActivity {
         Button btnCall = findViewById(R.id.goHome);
         btnCall.setOnClickListener(v -> openHomePage());
 
+        //Opens About page
+        Button btnCall2 = findViewById(R.id.aboutPage);
+        btnCall2.setOnClickListener(v -> openAboutPage());
     }
     public void openHomePage(){
         Intent i = new Intent(this, MainActivity.class);
         startActivity(i);
     }
-
+    public void openAboutPage(){
+        Intent i = new Intent(this, AboutPage.class);
+        startActivity(i);
+    }
 }

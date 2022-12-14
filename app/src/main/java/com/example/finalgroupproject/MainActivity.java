@@ -19,6 +19,9 @@ import java.util.Objects;
 
 public class MainActivity extends AppCompatActivity {
 
+    private Button btnCall;
+    private Button btnCall2;
+
     @SuppressLint("ClickableViewAccessibility")
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -62,12 +65,20 @@ public class MainActivity extends AppCompatActivity {
         });
 
         //Opens comments page
-        Button btnCall = findViewById(R.id.newPage);
+         btnCall = findViewById(R.id.newPage);
         btnCall.setOnClickListener(v -> openCommentsPage());
 
+        //Opens About page
+         btnCall2 = findViewById(R.id.aboutPagebtn);
+        btnCall2.setOnClickListener(v -> openAboutPage());
     }
     public void openCommentsPage(){
         Intent i = new Intent(this, NewComment.class);
           startActivity(i);
+    }
+
+    public void openAboutPage(){
+        Intent x = new Intent(this, AboutPage.class);
+        startActivity(x);
     }
 }

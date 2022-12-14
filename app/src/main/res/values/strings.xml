@@ -1,10 +1,10 @@
 <resources>
-<string name="app_name">FinalGroupProject</string>
+    <string name="app_name">FinalGroupProject</string>
 
     //article 1
-<string name="title1">Not yet 50–50: UST wants ‘best combination’ of F2F, online classes in Term 2</string>
-<string name="author1">By Logan Kal-El M. Zapanta -December 6, 2022</string>
-<string name="article1">
+    <string name="title1">Not yet 50–50: UST wants ‘best combination’ of F2F, online classes in Term 2</string>
+    <string name="author1">By Logan Kal-El M. Zapanta -December 6, 2022</string>
+    <string name="article1">
         The University won’t shift to a 50-50 hybrid learning mode until Academic Year (AY) 2023-2024 or August 2023, the Office of the Vice Rector for Academic Affairs (OVRAA) said.
 
 For Term 2 of the current academic year, AY 2022-2023, UST will adopt the “best combination” of onsite and online class hours, Vice Rector for Academic Affairs Prof. Cheryl Peralta told the Varsitarian.
@@ -43,9 +43,9 @@ Meanwhile, students can participate in either F2F or online classes in the EVM h
     </string>
 
     //article 2
-<string name="title2">Paskuhan opening draws crowd of 34,000 Thomasians</string>
-<string name="author2">By Hannah Joyce V. Andaya and Nillicent B. Bautista -December 2, 2022</string>
-<string name="article2">
+    <string name="title2">Paskuhan opening draws crowd of 34,000 Thomasians</string>
+    <string name="author2">By Hannah Joyce V. Andaya and Nillicent B. Bautista -December 2, 2022</string>
+    <string name="article2">
         MORE THAN 34,000 Thomasians attended this year’s Agape, lighting of the Christmas lights and decorations, and Christmas concert at University grounds on Friday, Dec. 2, which marked the start of the Paskuhan celebrations in UST.
 
 UST campus security supervisor Lords Hernandez told the Varsitarian that the University’s initial crowd estimate for the Agape was about 34,500, based on food packs claimed during the event.
@@ -88,9 +88,9 @@ In a short speech during the Agape program, UST Rector Fr. Richard Ang, O.P., sa
     </string>
 
     //article 3
-<string name="title3">In support of the ust salinggawi dance troupe, University of Santo Tomas proclaim December 9 and 10 as yellow days</string>
-<string name="author3">Office of the Secretary-General</string>
-<string name="article3">
+    <string name="title3">In support of the ust salinggawi dance troupe, University of Santo Tomas proclaim December 9 and 10 as yellow days</string>
+    <string name="author3">Office of the Secretary-General</string>
+    <string name="article3">
 
         In solidarity with our Salinggawi Dance Troupe, let us show our moral support by wearing our best yellows (i.e., Thomasian shirts, tiger prints, or tiger accessories), subject to the existing policies on dress code, as we cheer and wish them blessings for their participation in the UAAP Season 85 Cheerdance Competition on 10 December 2022.
 
@@ -104,18 +104,16 @@ In a short speech during the Agape program, UST Rector Fr. Richard Ang, O.P., sa
     <string name="title6">UST human resources director named new Artlets dean</string>
 
 
-
-
     //Images
-<string name="todo">TODO</string>
-<string name="todo2">TODO</string>
-<string name="todo3">TODO</string>
+    <string name="todo">TODO</string>
+    <string name="todo2">TODO</string>
+    <string name="todo3">TODO</string>
 
     //Header Text
-<string name="thomasian_newsletter">Thomasian Newsletter</string>
-<string name="topNews">Top News</string>
-<string name="recentNews">Recent News</string>
-<string name="allNews">All News</string>
+    <string name="thomasian_newsletter">Thomasian Newsletter</string>
+    <string name="topNews">Top News</string>
+    <string name="recentNews">Recent News</string>
+    <string name="allNews">All News</string>
     <string name="aronwins_manuel">Aronwins Manuel</string>
     <string name="developer">Developer</string>
     <string name="developer2">Developer</string>
@@ -126,4 +124,5 @@ In a short speech during the Agape program, UST Rector Fr. Richard Ang, O.P., sa
     <string name="todo4">TODO</string>
     <string name="todo5">TODO</string>
     <string name="todo6">TODO</string>
+    <string name="whatdoyouthink">What do you think about our app?</string>
 </resources>

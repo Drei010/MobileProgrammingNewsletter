@@ -14,8 +14,13 @@
         android:theme="@style/Theme.FinalGroupProject"
         tools:targetApi="31">
         <activity
+            android:name=".AboutPage"
+            android:exported="false"
+            android:parentActivityName=".MainActivity"/>
+        <activity
             android:name=".NewComment"
-            android:exported="false" />
+            android:exported="false"
+            android:parentActivityName=".MainActivity"/>
         <activity
             android:name=".MainActivity"
             android:exported="true">
