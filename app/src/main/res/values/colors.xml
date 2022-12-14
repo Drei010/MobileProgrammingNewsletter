@@ -12,7 +12,7 @@
 
 
     <!--Color Scheme of the application-->
-    <color name="Header">#1f2025</color>
+    <color name="Header">#000000</color>
     <color name="Body">#27282d</color>
     <color name="Footer">#1f2025</color>
     <color name="NavBar">#4f5561</color>

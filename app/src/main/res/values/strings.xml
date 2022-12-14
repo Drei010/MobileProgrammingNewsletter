@@ -111,9 +111,11 @@ In a short speech during the Agape program, UST Rector Fr. Richard Ang, O.P., sa
 
     //Header Text
     <string name="thomasian_newsletter">Thomasian Newsletter</string>
-    <string name="topNews">Top News</string>
-    <string name="recentNews">Recent News</string>
-    <string name="allNews">All News</string>
+    <string name="topNews">TOP NEWS</string>
+    <string name="recentNews">RECENT NEWS</string>
+    <string name="allNews">ALL NEWS</string>
+
+    //Other
     <string name="aronwins_manuel">Aronwins Manuel</string>
     <string name="developer">Developer</string>
     <string name="developer2">Developer</string>
@@ -125,4 +127,10 @@ In a short speech during the Agape program, UST Rector Fr. Richard Ang, O.P., sa
     <string name="todo5">TODO</string>
     <string name="todo6">TODO</string>
     <string name="whatdoyouthink">What do you think about our app?</string>
+    <string name="meet">MEET THE TEAM</string>
+
+
+    <string name="ourSite">The Thomasian Newsletter is dedicated to bring you up to date of the recent events that have ocured in our beloved university, The University of Santo Tomas.</string>
+    <string name="article3n">"       In solidarity with our Salinggawi Dance Troupe, let us show our moral support by wearing our best yellows (i.e., Thomasian shirts, tiger prints, or tiger accessories), subject to the existing policies on dress code, as we cheer and wish them blessings for their participation in the UAAP Season 85 Cheerdance Competition on 10 December 2022.  - Office of the Secretary-General"</string>
+
 </resources>
