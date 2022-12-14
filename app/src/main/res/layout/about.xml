@@ -210,6 +210,12 @@
 
                 </TableLayout>
 
+                <View
+                    android:id="@+id/divider5"
+                    android:layout_width="match_parent"
+                    android:layout_height="7dp"
+                    android:background="@color/black" />
+
             </LinearLayout>
         </androidx.core.widget.NestedScrollView>
 
