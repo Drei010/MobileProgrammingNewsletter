@@ -116,4 +116,14 @@ In a short speech during the Agape program, UST Rector Fr. Richard Ang, O.P., sa
 <string name="topNews">Top News</string>
 <string name="recentNews">Recent News</string>
 <string name="allNews">All News</string>
-    </resources>
+    <string name="aronwins_manuel">Aronwins Manuel</string>
+    <string name="developer">Developer</string>
+    <string name="developer2">Developer</string>
+    <string name="ezekiel_giron">Ezekiel Giron</string>
+    <string name="developer3">Developer</string>
+    <string name="andrei_kyle_hidalgo">Andrei Kyle Hidalgo</string>
+    <string name="about_us">About Us</string>
+    <string name="todo4">TODO</string>
+    <string name="todo5">TODO</string>
+    <string name="todo6">TODO</string>
+</resources>
